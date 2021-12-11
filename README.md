@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Javascript technologies and React JS Framework.
 - 📚 I’m currently learning React JS.
-- 🚀 I’m looking forward to get better as a Front-End Developer.
+- 🚀 I’m looking forward to get better as a Front End Developer.
 - 📫 You can reach me from linkedin.com/in/sedulla-jafarli
 
 <!--
