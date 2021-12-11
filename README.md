@@ -1,5 +1,4 @@
 # Hi 👋, I'm Sedulla
-### Front End Developer
 
 - 👀 I’m interested in Javascript technologies and React JS Framework.
 - 📚 I’m currently learning React JS.
