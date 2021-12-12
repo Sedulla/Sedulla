@@ -3,7 +3,7 @@
 - 👀 I’m interested in Javascript technologies and React JS Framework.
 - 📚 I’m currently learning React JS.
 - 🚀 I’m looking forward to get better as a Front End Developer.
-- 📫 You can reach me from [linkedin](linkedin.com/in/sedulla-jafarli "Sedulla's linkedin profile") 
+- 📫 You can reach me from [linkedin](https://www.linkedin.com/in/sedulla-jafarli/ "Sedulla's linkedin profile") 
 <!--
 **Sedulla/Sedulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
