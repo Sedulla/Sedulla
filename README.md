@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sedulla</h1>
 <h3 align="center">Frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedulla&label=Profile%20views&color=0e75b6&style=flat" alt="sedulla" /> </p>
-
 - 👀 I’m interested in **Javascript technologies and React JS Framework.**
 
 - 📚 I’m currently learning **React JS.**
@@ -25,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sedulla&show_icons=true&locale=en" alt="sedulla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sedulla&" alt="sedulla" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedulla&label=Profile%20views&color=0e75b6&style=flat" alt="sedulla" /> </p>
