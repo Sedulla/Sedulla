@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sedulla</h1>
+<h1 align="center">Hi, I'm Sedulla</h1>
 <h3 align="center">Frontend developer.</h3>
 
 - 👀 I’m interested in **Javascript technologies and React JS Framework.**
